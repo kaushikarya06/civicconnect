@@ -1,0 +1,6 @@
+{
+  "name": "CivicConnect – Smart Civic Complaint Management System",
+  "description": "Digital platform connecting citizens with municipal authorities to report public infrastructure issues, track resolutions, and streamline civic service management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
